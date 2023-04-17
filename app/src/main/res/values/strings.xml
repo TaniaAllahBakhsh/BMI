@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BMI</string>
+    <string name="textView2">Enter your Weight</string>
+    <string name="textView3">Enter your Height(in Feet)</string>
+    <string name="textView4">Enter your Height(in Inches)</string>
+    <string name="textView5">BMI Calculator</string>
+    <string name="hint_wg">weight here</string>
+    <string name="hint_hf">height (in Feet)</string>
+    <string name="hint_hi">height (in Inches)</string>
+    <string name="butt">Calculate BMI</string>
+    <string name="tv">Result</string>
+    <string name="OW">"You are OverWeight"</string>
+    <string name="UW" >"You are UnderWeight"</string>
+    <string name="H" >"You are Healthy"</string>
+
+
+</resources>
